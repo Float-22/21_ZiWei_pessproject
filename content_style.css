@@ -50,11 +50,11 @@
 }
 .ContentStyle td{
 	vertical-align:middle;
-		background:-o-linear-gradient(bottom, #ffaa56 5%, #aaffd4 100%);	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #ffaa56), color-stop(1, #aaffd4) ); 
-	background:-moz-linear-gradient( center top, #ffaa56 5%, #aaffd4 100% );
-	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr="#ffaa56", endColorstr="#aaffd4");	background: -o-linear-gradient(top,#ffaa56,aaffd4);
+		background:-o-linear-gradient(bottom, #FF33BE 5%, #33FFFD 100%);	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #FF33BE), color-stop(1, #33FFFD) ); 
+	background:-moz-linear-gradient( center top, #FF33BE 5%, #33FFFD 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr="#FF33BE", endColorstr="#33FFFD");	background: -o-linear-gradient(top,#FF33BE,33FFFD);
 
-	background-color:#ffaa56;
+	background-color:#FF33BE;
 
 	border:1px solid #000000;
 	border-width:0px 1px 1px 0px;
